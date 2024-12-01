@@ -14,7 +14,6 @@ This project is a REST API built with FastAPI for an Anime Recommendation System
 ### Prerequisites
 - Python 3.11
 - PostgreSQL (for the database)
-- Docker (for containerization)
 
 ### Installation Steps
 
