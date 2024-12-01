@@ -1,0 +1,12 @@
+# Ignore Alembic migrations and environment files
+alembic/
+myenv/
+.env
+alembic.ini
+envy1.py
+aleeeme.txt
+__pycache__
+dockerfile
+docker-compose.yml
+test.py
+.dockerignore
